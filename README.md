@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Dechen</h1>
-<h3 align="center">A passionate java developer from Brasil</h3>
+<h3 align="center">A passionate java developer</h3>
 
 - 🔭 I’m currently working on [Clinicare](https://github.com/thomasdechen/clinicare-back-end-ofc)
 
