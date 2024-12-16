@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Clinicare](https://github.com/thomasdechen/clinicare-back-end-ofc)
 
-- 🌱 I’m currently learning **Microservices, JUnit, Kafka/RabbitMQ, Docker and Kubernetes**
+- 🌱 I’m currently learning **Microservices and RabbitMQ
 
 - 👨‍💻 All of my projects are available at [loading...](loading...)
 
