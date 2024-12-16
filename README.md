@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Thomas Dechen</h1>
-<h3 align="center">A passionate java developer</h3>
+<h1 align="center">Oi 👋, meu nome é Thomas Dechen Ferreira</h1>
+<h3 align="center">Desenvolvedor de Software</h3>
 
-- 🔭 I’m currently working on [Clinicare](https://github.com/thomasdechen/clinicare-back-end-ofc)
+- 🔭 Atualmente estou desenvolvendo o agendador de consultas médicas: [Clinicare](https://github.com/thomasdechen/clinicare-back-end-ofc)
 
 - 🌱 I’m currently learning **Microservices and RabbitMQ
 
