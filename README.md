@@ -1,15 +1,14 @@
 <h1 align="center">Oi 👋, meu nome é Thomas Dechen Ferreira</h1>
 <h3 align="center">Desenvolvedor de Software</h3>
 
-- 🔭 Atualmente estou desenvolvendo o agendador de consultas médicas: [Clinicare](https://github.com/thomasdechen/clinicare-back-end-ofc)
+- 🔭 Atualmente estou desenvolvendo o agendador de consultas médicas [Clinicare](https://github.com/thomasdechen/clinicare-back-end-ofc)
 
-- 🌱 I’m currently learning **Microservices and RabbitMQ
+- 🌱 Estou aprendendo **Microservices and RabbitMQ
 
-- 👨‍💻 All of my projects are available at [loading...](loading...)
 
-- 📫 How to reach me **dechendev@gmail.com**
+- 📫 **dechendev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thomas-dechen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thomas-dechen/" height="30" width="40" /></a>
 </p>
