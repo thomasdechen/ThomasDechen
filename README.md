@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou desenvolvendo o agendador de consultas médicas [Clinicare](https://github.com/thomasdechen/clinicare-back-end-ofc)
 
-- 🌱 Estou aprendendo **Microsserviços e RabbitMQ**
+- 🌱 Estou aprendendo sobre **Microsserviços e Mensageria**
 
 
 - 📫 **dechendev@gmail.com**
